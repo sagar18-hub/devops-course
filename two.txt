@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Learning devops and wanted to become a devops enginner"
