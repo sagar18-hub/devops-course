@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello prayer for swami samarth"
+echo "hello new prayer for swami samarth"
